@@ -1,3 +1,6 @@
 pet,500
 ep,200
+<<<<<<< HEAD
 home,500
+=======
+>>>>>>> origin/main
